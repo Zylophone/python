@@ -10,7 +10,7 @@ Python
 python3
 ```
 
-# Execução
+### Execução
 
 ```
 python3 main.py
