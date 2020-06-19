@@ -1,8 +1,8 @@
-### Linguagem
+# About
 
-```
-Python
-```
+@language: python<br>
+@date: 18-06-2929<br>
+@author: @kielsonzinn<br>
 
 ### Pré-requisito
 
@@ -15,3 +15,4 @@ python3
 ```
 python3 main.py
 ```
+
