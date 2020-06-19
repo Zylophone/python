@@ -1,9 +1,9 @@
 # About
 
 ```
-language: python<br>
-date: 18-06-2020<br>
-author: @kielsonzinn<br>
+language: python
+date: 18-06-2020
+author: @kielsonzinn
 ```
 
 ### Pré-requisito
